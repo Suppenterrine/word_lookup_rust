@@ -1,7 +1,7 @@
 use clap::{App, Arg};
 use reqwest;
 use serde_json::Value;
-use std::collections::{HashSet};
+use std::collections::HashSet;
 
 // Function to make GET requests to ConceptNet API
 async fn get_conceptnet_edges(
