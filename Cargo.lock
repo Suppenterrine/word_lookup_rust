@@ -1307,8 +1307,8 @@ dependencies = [
 ]
 
 [[package]]
-name = "word_lookup_rust"
-version = "0.1.0"
+name = "word_lookup"
+version = "0.1.2"
 dependencies = [
  "clap",
  "reqwest",
