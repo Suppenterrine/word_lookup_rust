@@ -1,6 +1,8 @@
 # README für ConceptNet Query Tool in Rust
-## 🚀 Einleitung
-Willkommen beim ConceptNet Query Tool, dem kleinen Helfer, der dir zeigt, dass nicht nur Philosophen endlose Fragen über Worte und ihre Bedeutungen stellen können. Wir (das Kollektiv der Kontraminösen Kerngedanken) nutzen die Macht von Rust und ConceptNet, um dir zu zeigen, wie tief der Wort-Kaninchenbau wirklich geht. Also leinen los, wir gehen auf eine Wort-Entdeckungsreise!
+![app logo](media/wod.png)
+
+## 🚀 Zu gut um wahr zu sein... WOD?
+Abgesehen das der Wortwitz in der Überschrift kaum funktioniert heißen WIR dich willkommen beim ConceptNet Query Tool, dem kleinen Helfer, der dir zeigt, dass nicht nur Philosophen endlose Fragen über Worte und ihre Bedeutungen stellen können. Wir (das Kollektiv der Kontraminösen Kerngedanken) nutzen die Macht von Rust und ConceptNet, um dir zu zeigen, wie tief der Wort-Kaninchenbau wirklich geht. Also leinen los, wir gehen auf eine Wort-Entdeckungsreise!
 
 ## 🛠 Installation
 Bevor du loslegst, stelle sicher, dass du Rust installiert hast. Wenn nicht, besuche die offizielle Rust-Website für Installationsanweisungen. Dann klonst du dieses Repository und führst es aus. Easy peasy, lemon squeezy!
